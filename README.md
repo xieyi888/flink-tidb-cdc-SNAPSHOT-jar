@@ -4,7 +4,7 @@ pom:
 ```java
         <dependency>
             <groupId>com.ververica</groupId>
-            <artifactId>flink-sql-connector-mysql-cdc</artifactId>
+            <artifactId>flink-sql-connector-tidb-cdc</artifactId>
             <version>2.2.0-yd-jira7134-20220512</version>
         </dependency>
         
